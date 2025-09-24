@@ -55,16 +55,6 @@ A simplified trading bot implemented in Python to place market, limit, stop-mark
 - The `python-binance` library handles Binance API communications.
 - Make sure you have stable internet connection while using the bot.
 
----
-
-## Extending the Bot
-
-You can extend this bot by:
-
-- Adding support for more complex order types such as OCO or TWAP
-- Implementing automated trading strategies
-- Adding proper asynchronous handling with websockets for real-time data
-- Building a more advanced user interface
 
 ---
 
