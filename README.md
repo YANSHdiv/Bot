@@ -18,7 +18,7 @@ A simplified trading bot implemented in Python to place market, limit, stop-mark
 
 - Python 3.8 or above
 - Binance Futures Testnet account with API key and secret
-- Install required packages:
+- Install required packages: `binance` `prompt_toolkit`
 
 
 ---
@@ -32,7 +32,7 @@ A simplified trading bot implemented in Python to place market, limit, stop-mark
 
 3. Clone this repository and navigate to project directory
 
-4. Run the bot:
+4. Run the bot
 
 
 ---
